@@ -1,6 +1,6 @@
 # Nea Järvenpää
 ## Minä
-  Mun nimi on **Nea** ja asun *Pyhäjoella*. Perheeseeni kuuluu *mies* **Teemu** ja *taapero* **Niilo**. 
+  #### Mun nimi on **Nea** ja asun *Pyhäjoella*. Perheeseeni kuuluu *mies* **Teemu** ja *taapero* **Niilo**. 
 ------------------------------------------------------------------------------------------------------------
 ## Harrastuksiini kuuluu
 - retkeily ja ulkoilu
@@ -10,12 +10,12 @@
 
 ## Autohistoria
 1. Volvo v50
-2. BMW 330d e91
+2. **BMW** 330d e91
 3. Suzuki Vitara
-4. BMW 520d f11
-5. BMW 315 e21
+4. **BMW** 520d f11
+5. **BMW** 315 e21
 6. Suzuki Vitara
-7. BMW 323 e36
+7. **BMW** 323 e36
 
 | Automerkki ja malli | Vuosimalli  | Moottori        |
 | ------------------- | ----------- | --------------- | 
@@ -35,10 +35,9 @@
 
 ------------------------------------------------------------------------------------------------------------
 <html>
-        <head>       
-      "etunimi": "Nea",
-      "sukunimi": "Järvenpää",
-      "ikä": 23
+        <head> 
+        ```testiätestiä mitähän tästä tulee...
+        
         </head>
 </html>
 
