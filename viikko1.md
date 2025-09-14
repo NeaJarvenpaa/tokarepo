@@ -1,6 +1,6 @@
 # Nea Järvenpää
 ## Minä
-Mun nimi on **Nea** ja asun *Pyhäjoella*. Perheeseeni kuuluu *mies* **Teemu** ja *taapero* **Niilo**. 
+#### Mun nimi on **Nea** ja asun *Pyhäjoella*. Perheeseeni kuuluu *mies* **Teemu** ja *taapero* **Niilo**. 
 ------------------------------------------------------------------------------------------------------------
 ## Harrastuksiini kuuluu
 - retkeily ja ulkoilu
@@ -29,16 +29,21 @@ Mun nimi on **Nea** ja asun *Pyhäjoella*. Perheeseeni kuuluu *mies* **Teemu** j
 
 ## *Tässäpä hieno kuva unelma-autostani* 
 [BMW E92 M3](https://i.bstr.es/highmotor/2019/05/bmw-m3-e92-gts-2.jpg)
-## *Tässä vielä toinen ehdokas*
-![tässä siis](C:\Users\neaja\OneDrive\Kuvat\Ämmä3.jpg)
+
 ## **Täältäpä näitä voi sitten shoppailla mielin määrin**
  [NETTIAUTO](https://www.nettiauto.com/hakutulokset?haku=P377590424)
 
+------------------------------------------------------------------------------------------------------------
+
  ``` 
  {
+      <html>
+        <head>
       "etunimi": "Nea",
       "sukunimi": "Järvenpää",
       "ikä": 23
+        </head>
+      </html>
  }
  ```
 > mitä hitaammin tippuu, sen parempaa tulee! 
