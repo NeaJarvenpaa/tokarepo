@@ -27,20 +27,21 @@
 | Suzuki Vitara       | 2019        | 1.0 boosterjet  |
 | BMW 323 e36         | 1995        | M52B25          |
 
-## *Tässäpä hieno kuva unelma-autostani* 
+### *Tässäpä hieno kuva unelma-autostani* 
 [BMW E92 M3](https://i.bstr.es/highmotor/2019/05/bmw-m3-e92-gts-2.jpg)
 
-## **Täältäpä näitä voi sitten shoppailla mielin määrin**
+### *Täältäpä näitä voi sitten shoppailla mielin määrin*
  [NETTIAUTO](https://www.nettiauto.com/hakutulokset?haku=P377590424)
 
 ------------------------------------------------------------------------------------------------------------
 
 
 ```
-    Kysymys
-        vastaus
-        vastaus
-            ja taas
+    Pientä kevennystä väliin...
+        Miksi Röllin vene upposi?
+            Siitä puuttui tilipitappi.
+        Miksi Rölli hukkui? 
+            Siltä loppui hilipihappi. LOL.
 ```
 
 > mitä hitaammin tippuu, sen parempaa tulee! 
