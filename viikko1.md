@@ -1,6 +1,6 @@
 # Nea Järvenpää
 ## Minä
-#### Mun nimi on **Nea** ja asun *Pyhäjoella*. Perheeseeni kuuluu *mies* **Teemu** ja *taapero* **Niilo**. 
+  Mun nimi on **Nea** ja asun *Pyhäjoella*. Perheeseeni kuuluu *mies* **Teemu** ja *taapero* **Niilo**. 
 ------------------------------------------------------------------------------------------------------------
 ## Harrastuksiini kuuluu
 - retkeily ja ulkoilu
@@ -34,16 +34,12 @@
  [NETTIAUTO](https://www.nettiauto.com/hakutulokset?haku=P377590424)
 
 ------------------------------------------------------------------------------------------------------------
-
- ``` 
- {
-      <html>
-        <head>
+<html>
+        <head>       
       "etunimi": "Nea",
       "sukunimi": "Järvenpää",
       "ikä": 23
         </head>
-      </html>
- }
- ```
+</html>
+
 > mitä hitaammin tippuu, sen parempaa tulee! 
