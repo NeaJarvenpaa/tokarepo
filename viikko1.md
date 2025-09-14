@@ -42,12 +42,5 @@
         vastaus
             ja taas
 ```
-            
-<html>
-        <head> 
-        ```testiätestiä mitähän tästä tulee...
-
-        <head>
-</html>
 
 > mitä hitaammin tippuu, sen parempaa tulee! 
